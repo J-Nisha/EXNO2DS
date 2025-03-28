@@ -133,4 +133,6 @@ sns.heatmap(corr,annot=True)
 sns.pairplot(df)
 ```
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+```
+      Thus, the outputs verifies that the data set has been applied the EDA process and methods.
+```
